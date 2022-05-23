@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\Source.cpp(15,15): warning C4101: 'choose2': unreferenced local variable
+  student.cpp
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(79,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(83,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(104,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(106,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(208,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(212,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(220,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(225,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(229,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(256,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(258,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(272,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(274,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(298,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\dsproject\student.cpp(314,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  dsproject.vcxproj -> C:\Users\salma mahdy\Downloads\(7)\finalDSproj\dsproject\Debug\dsproject.exe

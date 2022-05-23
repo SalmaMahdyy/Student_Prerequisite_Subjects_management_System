@@ -1,0 +1,10 @@
+ name  : arc
+ code  : 4
+ Muximum Number Of Student  : 0
+ Hours Of Course  : 7
+pre_name : kn 
+ name  : sp
+ code  : 125
+ Muximum Number Of Student  : 55
+ Hours Of Course  : 5
+pre_name : intro 
